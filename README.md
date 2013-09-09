@@ -5,7 +5,7 @@ J2E webapp for using jcollectd with the JBoss MBeanServer
 
 ## How
 
-This minimal webapplication uses a ServletContextListener to start the MBeanSender of jcollectd such that it can access the JBoss specific MBeanServer to gather metrics. See [FORK.md](https://github.com/emicklei/jcollectd/blob/master/FORK.md) for its configuration.
+This minimal webapplication uses a ServletContextListener to start the MBeanSender of jcollectd such that it can access the JBoss specific MBeanServer to gather metrics. See [FORK.md from jcollectd](https://github.com/emicklei/jcollectd/blob/master/FORK.md) for its configuration.
 
 ## Requires
 
